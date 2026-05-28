@@ -1,0 +1,32 @@
+aid: hirak-translation
+name: Hirak Translation
+description: "Translate between 21 of most used languages, accurate, unlimited requests"
+url: https://translate.hirak.site/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: Hirak Translation
+    description: "Translate between 21 of most used languages, accurate, unlimited requests"
+    humanURL: https://translate.hirak.site/
+    baseURL: https://translate.hirak.site/
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://translate.hirak.site/
+common:
+  - type: Website
+    url: https://translate.hirak.site/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
