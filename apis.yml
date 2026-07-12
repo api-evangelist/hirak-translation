@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://translate.hirak.site/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/hirak-translation-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/hirak-translation-domain-security.yml
   - type: Website
     url: https://translate.hirak.site/
   - type: PublicAPIsListing
