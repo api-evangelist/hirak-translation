@@ -1,4 +1,16 @@
 aid: hirak-translation
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hirak-translation.png
 name: Hirak Translation
 description: "Translate between 21 of most used languages, accurate, unlimited requests"
 url: https://translate.hirak.site/
