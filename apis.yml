@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hirak-tran
 name: Hirak Translation
 description: "Translate between 21 of most used languages, accurate, unlimited requests"
 url: https://translate.hirak.site/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
